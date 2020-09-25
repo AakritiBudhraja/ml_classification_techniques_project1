@@ -11,7 +11,7 @@ The ML classification techniques used are:
 4) Bayes Classifier with K-Nearest Neighbours method for estimation of class-conditional probability density function
 
 
-Following are the files that should be run for the given tasks :
+Following are the files that should be run for the given tasks : <br>
 KNN.m - KNN
 gmm.m - For GMM task on given dataset 
 gmm_real_world_static_data.m - For GMM on real world datasets
