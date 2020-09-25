@@ -12,6 +12,6 @@ The ML classification techniques used are:
 
 
 # Authors:
-1) <a href="https://github.com/AakritiBudhraja">Aakriti Budhraja</a> 
-2) <a href="https://github.com/madhurapande19">Madhura Pande</a>
-3) <a href="https://github.com/graylevel255">Sadbhavana Babar</a>
+<a href="https://github.com/AakritiBudhraja">Aakriti Budhraja</a> 
+<a href="https://github.com/madhurapande19">Madhura Pande</a>
+<a href="https://github.com/graylevel255">Sadbhavana Babar</a>
